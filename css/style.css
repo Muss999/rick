@@ -1,0 +1,15 @@
+* {
+    list-style-type: none;
+}
+body {
+    background-color: grey;
+}
+h1,
+h2 {
+    font-family: Lato;
+}
+li {
+    text-align: center;
+    font-size: 20px;
+    margin: 20px;
+}
